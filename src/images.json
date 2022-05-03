@@ -1,0 +1,50 @@
+{
+  "Sunny": {
+    "bgImg": "https://s.hdnux.com/photos/01/24/44/40/22169658/3/rawImage.jpg"
+  },
+  "Clear": {
+    "bgImg": "https://highdefwallpaper.com/wp-content/uploads/2017/06/clear-sky-hd.jpg"
+  },
+  "Snow": {
+    "bgImg": "https://browsecat.net/sites/default/files/beautiful-snow-wallpapers-wallpapers-94584-397501-8039287.png"
+  },
+  "Rain": {
+    "bgImg": "http://trumpwallpapers.com/wp-content/uploads/Rain-Wallpaper-01-3840x2052-1-scaled.jpg"
+  },
+  "Tornado": {
+      "bgImg" : "https://wallpaperaccess.com/full/452127.jpg"
+  },
+  "Thunderstorm": {
+      "bgImg" : "https://phantom-marca.unidadeditorial.es/eb406da26a0db14bf7b12abcebaff5e2/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/08/16467777883078.jpg"
+  },
+  "Drizzle": {
+      "bgImg" : "https://images.unsplash.com/photo-1556485689-33e55ab56127?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJpenpsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  "Mist": {
+      "bgImg" : "https://images.unsplash.com/photo-1556485689-33e55ab56127?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJpenpsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  "Smoke": {
+      "bgImg" : "https://apicms.thestar.com.my/uploads/images/2020/09/23/870865.jpg"
+  },
+  "Haze": {
+      "bgImg" : "https://metro.co.uk/wp-content/uploads/2018/06/gettyimages-682966492.jpg?quality=90&strip=all"
+  },
+  "Fog": {
+      "bgImg" : "https://insideclimatenews.org/wp-content/uploads/2021/10/fog_tayfun-coskun-anadolu-agency-getty-scaled.jpg"
+  },
+  "Dust": {
+      "bgImg" : "https://www.weathernationtv.com/app/uploads/2018/07/marsdust2.jpg"
+  },
+  "Sand": {
+      "bgImg" : "https://www.stormgeo.com/assets/ArticleImages/sandstorm.png"
+  },
+  "Ash": {
+      "bgImg" : "https://previews.123rf.com/images/makler0008/makler00081211/makler0008121100196/17456593-ash-in-the-background.jpg"
+  },
+  "Squall": {
+      "bgImg" : "https://www.surfertoday.com/images/stories/squall.jpg"
+  },
+  "Clouds": {
+    "bgImg": "https://wallpaperbat.com/img/510194-aesthetic-cloud-desktop-wallpaper-top-free-aesthetic-cloud-desktop-background.jpg"
+  }
+}
